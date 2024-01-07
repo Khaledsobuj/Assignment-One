@@ -191,3 +191,80 @@ section {
 
 
 /* address section styles start */
+
+
+/* coming soon section styles start*/
+.best-offer-wrapper {
+    background-color: #fff;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.comming-soon {
+    width: 33.33%;
+    padding: 0px 0px 0px 50px;
+}
+
+.comming-soon .nboffer {
+    color: #f00;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.comming-soon .com-soon-hedding {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.comming-soon .com-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+
+}
+
+.images-cercil {
+    width: 33.33%;
+    border: 15px solid red;
+    border-radius: 300px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+
+.images-cercil img {
+    width: 365px;
+    height: 365px;
+    padding: 20px 20px 20px 20px;
+
+}
+
+.new-year-offier {
+    width: 33.33%;
+    padding: 20px;
+}
+
+.new-year-offier .twenty-four {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.new-year-offier .twentyfour-descriptin {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 15px;
+}
+
+/* coming soon section styles end */

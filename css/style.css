@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1600px;
+    font-family: 'Merriweather', serif;
+}
+
+.contaner {
+    width: 83%;
+    margin: 0 auto;
+}
+
+/* start header styles */
+
+.content-wrapper {
+    background-image: url('../images/Banner Image.png');
+    background-position: bottom right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.content-wrapper .new-title {
+    text-align: center;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 400;
+    padding: 175px 530px 0px 530px;
+}
+
+.content-wrapper .new-heading {
+    color: #ffffff;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    padding: 0px 340px 180px 340px;
+
+}

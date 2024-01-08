@@ -450,3 +450,35 @@ section {
     padding-bottom: 50px;
 
 }
+
+.subsribe-from {
+    width: 100%;
+    text-align: center;
+
+}
+
+
+
+.subsribe-from .email-in {
+    width: 400px;
+    border: 0;
+    padding: 25px 30px;
+    border-radius: 50px 0px 0px 50px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.subsribe-from .btn-sub {
+    padding: 25px 50px;
+    border-radius: 00px 50px 50px 00px;
+    border: 0;
+    background-color: #f00;
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.subsribe-from .btn-sub:hover {
+    cursor: pointer;
+    background-color: rgb(240, 95, 95);
+}

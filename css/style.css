@@ -482,3 +482,38 @@ section {
     cursor: pointer;
     background-color: rgb(240, 95, 95);
 }
+
+/* start footer section styles */
+.footer-wrapper {
+    width: 100%;
+    background: #070211;
+    color: #fff;
+}
+
+
+.footer-wrapper .adderass-bir {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 120px 0;
+    border-bottom: 1px solid #ffe8e8
+}
+
+.add {
+    padding: ;
+}
+
+.icoe-wrepper {
+    width: 100%;
+    text-align: center;
+    padding: 50px 0;
+    border-bottom: 1px solid #ffe8e8
+}
+
+.social-icoe {}
+
+.copy-righits {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px 0px;
+}

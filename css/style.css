@@ -401,8 +401,16 @@ section {
 
 }
 
+.best-gift-item .gift {
+    width: 425px;
+    height: 450px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 15px;
+}
+
 .best-gift-item .gift img {
     width: 100%;
+
 
 }
 
@@ -410,5 +418,35 @@ section {
     cursor: pointer;
 
 
+}
+
+/* end gift section styles */
+
+/* start subsribe section styles */
+.subribe-wrapper {
+    width: 100%;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding: 80px 220px;
+}
+
+.subribe-wrapper .subsribe-hedding {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+.subribe-wrapper .subsribe-decription {
+    width: 80%;
+    margin: 0 auto;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 50px;
 
 }

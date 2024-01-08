@@ -336,13 +336,14 @@ section {
     align-items: end;
     padding-bottom: 227.5px;
     padding-right: 8px;
-    border: 1px solid;
+    /* border: 1px solid; */
 }
 
 .right .top {
     height: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     background-image: url('../images/rectangle1c.png');
+    /* padding-bottom: 0px; */
 
 }
 
@@ -353,5 +354,42 @@ section {
 
 .right .bottom {
     height: 20%;
-    border: 2px solid rgb(0, 255, 191);
+    /* border: 2px solid rgb(0, 255, 191); */
+    /* end discount style  */
+    /* start best gift section styles */
+}
+
+.best-gift-wrapper {
+    width: 100%;
+    background-color: #fff;
+
+}
+
+.best-gift-content {
+    text-align: left;
+}
+
+.best-gift-content .bg-title {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.best-gift-content .bg-heidding {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+}
+
+.best-gift-content .bg-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 70%;
+
 }

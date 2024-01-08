@@ -534,6 +534,11 @@ section {
     border-bottom: 1px solid #ffe8e8
 }
 
+.icoe-wrepper img {
+    width: 65px;
+    height: 65px;
+}
+
 .icoe-wrepper img:hover {
     cursor: pointer;
 }

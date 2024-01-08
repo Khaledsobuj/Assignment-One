@@ -268,3 +268,90 @@ section {
 }
 
 /* coming soon section styles end */
+/* coming soon section styles end */
+
+.holidays-sales-wrapper {
+    background-color: #fff;
+    width: 100%;
+}
+
+.holidays-sales-wrapper .sales-dic-img {
+    width: 100%;
+    background-image: url('../images/rectangle1.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.sales-content {
+    text-align: center;
+
+}
+
+.sales-content .functional {
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.holiday-hedding {
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+
+.holidays-descriptin {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    padding: 0px 200px 55px 200px;
+
+}
+
+.holiday-hedding span {
+    color: #F00;
+}
+
+.sales-dic-img {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    width: 530px;
+    height: auto;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+
+.left img {
+    width: 100%;
+}
+
+.right {
+    width: 430px;
+    height: 435px;
+    align-items: end;
+    padding-bottom: 227.5px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.right .top {
+    height: 100%;
+    border: 1px solid red;
+    background-image: url('../images/rectangle1c.png');
+
+}
+
+.right .top img {
+    width: 200px;
+    height: 200px;
+}
+
+.right .bottom {
+    height: 20%;
+    border: 2px solid rgb(0, 255, 191);
+}

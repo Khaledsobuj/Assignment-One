@@ -268,6 +268,59 @@ section {
 }
 
 /* coming soon section styles end */
+
+/* ================================================ */
+.holidays-dammy-wrapper {
+    width: 100%;
+    height: 618px;
+
+}
+
+.hoki_bg {
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/rectangle1.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    display: flex;
+
+}
+
+.hoki_bg .img-left {
+    width: 40%;
+    height: 100%;
+
+
+}
+
+.hoki_bg .img-left img {
+    width: 100%;
+    margin-top: 125px;
+    margin-left: 125px;
+}
+
+.hoki_bg .img-mid-bg {
+    width: 59.5%;
+    height: 63%;
+
+    background-image: url('../images/rectangle1c.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+
+
+}
+
+.hoki_bg .img-mid-bg .bg-div {
+    width: 50%;
+    height: 50%;
+    margin: 60px 200px 60px 200px;
+    align-items: ;
+
+}
+
+/* ================================================ */
+
+
 /* coming soon section styles end */
 
 .holidays-sales-wrapper {
@@ -314,50 +367,11 @@ section {
     color: #F00;
 }
 
-.sales-dic-img {
-    display: flex;
-    justify-content: space-between;
-}
 
-.left {
-    width: 530px;
-    height: auto;
-    padding-top: 200px;
-    padding-left: 100px;
-}
 
-.left img {
-    width: 100%;
-}
 
-.right {
-    width: 430px;
-    height: 435px;
-    align-items: end;
-    padding-bottom: 227.5px;
-    padding-right: 8px;
-    /* border: 1px solid; */
-}
 
-.right .top {
-    height: 100%;
-    /* border: 1px solid red; */
-    background-image: url('../images/rectangle1c.png');
-    /* padding-bottom: 0px; */
 
-}
-
-.right .top img {
-    width: 200px;
-    height: 200px;
-}
-
-.right .bottom {
-    height: 20%;
-    /* border: 2px solid rgb(0, 255, 191); */
-    /* end discount style  */
-    /* start best gift section styles */
-}
 
 .best-gift-wrapper {
     width: 100%;

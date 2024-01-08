@@ -499,8 +499,18 @@ section {
     border-bottom: 1px solid #ffe8e8
 }
 
-.add {
-    padding: ;
+.adderass-bir .thikana {
+    width: 60%;
+}
+
+.phane-web p {
+    display: flex;
+    align-items: center;
+
+}
+
+.phane-web p span img {
+    padding-right: 10px;
 }
 
 .icoe-wrepper {
@@ -510,10 +520,10 @@ section {
     border-bottom: 1px solid #ffe8e8
 }
 
-.social-icoe {}
-
 .copy-righits {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     padding: 100px 0px;
+    width: 80%;
+    margin: 0 auto;
 }

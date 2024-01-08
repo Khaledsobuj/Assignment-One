@@ -393,3 +393,22 @@ section {
     width: 70%;
 
 }
+
+.gift-item-contaner .best-gift-item {
+    display: flex;
+    padding-top: 25px;
+    gap: 25px;
+
+}
+
+.best-gift-item .gift img {
+    width: 100%;
+
+}
+
+.best-gift-item .gift:hover {
+    cursor: pointer;
+
+
+
+}
